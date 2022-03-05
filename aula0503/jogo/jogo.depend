@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1646486791 source:/home/maromo/fatec/lpnoite/aula0503/jogo/main.c
+1646491536 source:/home/maromo/fatec/lpnoite/aula0503/jogo/main.c
 	<stdio.h>
 	<stdlib.h>
 	<time.h>

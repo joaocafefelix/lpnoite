@@ -23,12 +23,7 @@ int main()
             printf("Passe no caixa, pegue a grana \n");
             break;
         } else {
-            printf("Infelizmente errou \n");
-            if(palpite < magico){
-                printf("Número é maior\n");
-            }else{
-                printf("Número é menor \n");
-            }
+            palpite < magico ? printf("Número é maior \n") : printf("Número é menor \n");
             printf("Essa foi a jogada %d \n", total_jogadas);
         }
 
